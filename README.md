@@ -149,7 +149,7 @@ The **Seismic Data Downloader** is a powerful and versatile tool designed to fac
 To install the Seismic Data Downloader, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/YSP0GITHUB/seismic-data-downloader.git
+git clone https://github.com/YSP0Github/seismic-data-downloader.git
 cd seismic-data-downloader
 pip install -r requirements.txt
 ```
